@@ -140,7 +140,7 @@ resource "aws_instance" "hashicat" {
 # as Chef or Puppet is a better choice. These tools track the state of
 # individual files and can keep them in the correct configuration.
 
-# Here we do the following steps:
+# Here we do the following steps2:
 # Sync everything in files/ to the remote VM.
 # Set up some environment variables for our script.
 # Add execute permissions to our scripts.
