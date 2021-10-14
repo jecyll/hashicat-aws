@@ -4,6 +4,3 @@ module "s3-bucket" {
   bucket_prefix = "johncoe"
   # insert required variables here
 }
-  }
-
-}
